@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aj53DyFnMsslss8ZM/5IT9lIAgif4RcHOJ7BHUZyb5+4zs49hhI8lumO+FDJ8iCK43Eud9uGXqsdEtafFqhfjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\Documents\\Gameficação\\Gameficação.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

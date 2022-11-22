@@ -1,0 +1,23 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Doors.jpg" type="Texture" id=1]
+
+[sub_resource type="AtlasTexture" id=1]
+flags = 4
+atlas = ExtResource( 1 )
+region = Rect2( 782, 424, 100, 128 )
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 27.2366, 22.5412 )
+
+[node name="Door1" type="StaticBody2D"]
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 3.1182, -6.68174 )
+scale = Vector2( 0.438734, 0.477989 )
+texture = SubResource( 1 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( 4.24268, -13.2667 )
+rotation = 1.57075
+shape = SubResource( 2 )

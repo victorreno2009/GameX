@@ -1,0 +1,9 @@
+C:\Users\victo\Documents\Gameficação\.mono\temp\bin\Debug\Gameficação.dll
+C:\Users\victo\Documents\Gameficação\.mono\temp\bin\Debug\Gameficação.pdb
+C:\Users\victo\Documents\Gameficação\.mono\temp\obj\Debug\Gameficação.csproj.AssemblyReference.cache
+C:\Users\victo\Documents\Gameficação\.mono\temp\obj\Debug\Gameficação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Gameficação\.mono\temp\obj\Debug\Gameficação.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Gameficação\.mono\temp\obj\Debug\Gameficação.AssemblyInfo.cs
+C:\Users\victo\Documents\Gameficação\.mono\temp\obj\Debug\Gameficação.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Gameficação\.mono\temp\obj\Debug\Gameficação.dll
+C:\Users\victo\Documents\Gameficação\.mono\temp\obj\Debug\Gameficação.pdb
